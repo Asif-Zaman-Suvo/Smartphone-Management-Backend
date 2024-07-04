@@ -61,6 +61,3 @@ npm run start:dev
 => But this is the main API
 
 - https://smartphone-second.vercel.app/api/
-
-
-# l2-b2-assignment-6-backend-Asif-Zaman-Suvo
