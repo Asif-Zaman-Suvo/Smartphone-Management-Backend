@@ -55,9 +55,9 @@ npm run start:dev
 
 ## Live API Link
 
-- https://smartphone-second.vercel.app/
+- https://smartphone-management-backend-suvo.vercel.app/
   => here you can see the front page for this api
 
 => But this is the main API
 
-- https://smartphone-second.vercel.app/api/
+- https://smartphone-management-backend-suvo.vercel.app/api/
