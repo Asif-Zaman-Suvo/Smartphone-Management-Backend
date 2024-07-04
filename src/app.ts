@@ -8,7 +8,8 @@ const app: Application = express();
 app.use(express.json());
 app.use(
   cors({
-    origin: 'https://smartphone-management-system.netlify.app',
+    origin: 'smartment-management-frontend-suvo.vercel.app',
+    // origin: 'http://localhost:5173',
     credentials: true,
     methods: ['GET', 'POST', 'PUT', 'DELETE', 'PATCH'],
   }),
@@ -24,7 +25,7 @@ app.get('/', (req: Request, res: Response) => {
     <head>
       <meta charset="UTF-8">
       <meta name="viewport" content="width=device-width, initial-scale=1.0">
-      <title>Welcome to Programming Hero</title>
+      <title>Welcome to My Project</title>
       <style>
         body {
           margin: 0;
@@ -52,7 +53,7 @@ app.get('/', (req: Request, res: Response) => {
     </head>
     <body>
       <div class="welcome-container">
-        <h1>Welcome to Programming Hero Level 2 Course - Assignment 6</h1>
+        <h1>Welcome to Smartphone Management Backend</h1>
         <p>This is a simple crud application built with Express, TypeScript and Mongoose , authentication and authorization with login and register ,and also role based authentication.</p>
       </div>
     </body>

@@ -1,4 +1,4 @@
-# SmartPhone Management Dashboard - Part 2 - Backend Code
+# SmartPhone Management Dashboard - Backend Code
 
 ## Details Of this project
 
